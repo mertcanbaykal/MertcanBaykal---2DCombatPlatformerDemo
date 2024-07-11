@@ -6,7 +6,7 @@
     <a href="README_EN.md">English</a>
 </p>
 
-Unity Oyun Motoru, Oyun Geliştirme ve C# yazılım dili üzerindeki yetkinliğimi test etmeyi ve yeni şeyler öğrenmeyi hedefleyen kişisel bir oyun projesidir.
+Unity Oyun Motoru, Oyun Geliştirme ve C# yazılım dili üzerindeki yetkinliğimi test etmeyi ve yeni şeyler öğrenmeyi hedeflediğim kişisel bir oyun projesidir.
 
 Proje; piksel sanatı kullanılarak hazırlanmış, 2 boyutlu bir dövüş & platform oyunudur. Oynanış ile hava durumu ve su yansıması gibi çevresel etkenlere odaklanan bir tür deneme sürümü olduğu için oyunun bölüm tasarımı sade tutulmuştur.
 

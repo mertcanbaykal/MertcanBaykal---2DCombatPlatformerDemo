@@ -1,16 +1,21 @@
 # MertcanBaykal - 2DCombatPlatformerDemo
- 
-This is a personal project that aims to test my skills and improve my knowledge about Unity Game Engine, Game Development and C#. 
 
-It is a 2D Combat & Platformer with pixel art style. The level design is simple because this is just a simple showcase focusing on the gameplay elements and enviromental effects. 
+<p align="center">
+    <a href="README.md">Türkçe</a>
+    ·
+    <a href="README_EN.md">English</a>
+</p>
+
+Unity Oyun Motoru, Oyun Geliştirme ve C# yazılım dili üzerindeki yetkinliğimi test etmeyi ve yeni şeyler öğrenmeyi hedefleyen kişisel bir oyun projesidir.
+
+Proje; piksel sanatı kullanılarak hazırlanmış, 2 boyutlu bir dövüş & platform oyunudur. Oynanış ile hava durumu ve su yansıması gibi çevresel etkenlere odaklanan bir tür deneme sürümü olduğu için oyunun bölüm tasarımı sade tutulmuştur.
+
 
 ![preview](https://github.com/mertcanbaykal/MertcanBaykal---2DCombatPlatformerDemo/assets/70139395/ea1dc64d-74a7-4f3a-906c-cfd4c7792686)
 
 
-[Click Here To See The Full Preview Video](https://drive.google.com/file/d/1KGKTgAT8MeoEBvd8dkBN2dZBbMuCEY0F/view?usp=sharing)
+[Tanıtım Videosunun Tamamını İzlemek İçin Buraya Tıklayınız](https://drive.google.com/file/d/1KGKTgAT8MeoEBvd8dkBN2dZBbMuCEY0F/view?usp=sharing)
 
-I look forward to any feedback.
+Kaynakları tasarlayan ve insanların özgürce kullanımına sunan sanatçılara özellikle teşekkürler. Bütün sanatçılara "Art Credits.txt" dosyasında atıfta bulunulmuştur.
 
-Special thanks to the artists for creating the assets and allowing people to use freely. They all are credited accordingly in the "Art Credits.txt" file. 
-
-***** "MertcanBaykal - 2DCombatPlatformerDemo.zip" file contains the same files with "MertcanBaykal - 2DCombatPlatformerDemo" file. *****
+***** "MertcanBaykal - 2DCombatPlatformerDemo.zip" dosyası ile "MertcanBaykal - 2DCombatPlatformerDemo" dosyasının içerikleri aynıdır. *****

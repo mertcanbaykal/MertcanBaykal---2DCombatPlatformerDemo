@@ -13,4 +13,4 @@ I look forward to any feedback.
 
 Special thanks to the artists for creating the assets and allowing people to use freely. They all are credited accordingly in the "Art Credits.txt" file. 
 
-***** "MertcanBaykal - 2DCombatPlatformerDemo.zip" file contains the exact files with "MertcanBaykal - 2DCombatPlatformerDemo" file. *****
+***** "MertcanBaykal - 2DCombatPlatformerDemo.zip" file contains the same files with "MertcanBaykal - 2DCombatPlatformerDemo" file. *****

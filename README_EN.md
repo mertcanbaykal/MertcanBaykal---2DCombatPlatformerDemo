@@ -6,7 +6,7 @@
     <a href="README_EN.md">English</a>
 </p>
  
-This is a personal project that aims to test my skills and improve my knowledge about Unity Game Engine, Game Development and C#. 
+This is a personal project that aims to test my skills and improve my knowledge about Unity Game Engine, Game Development and C# programming language. 
 
 It is a 2D Combat & Platformer with pixel art style. The level design is simple because this is just a simple showcase focusing on the gameplay elements and enviromental effects such as weather effects and water reflection. 
 

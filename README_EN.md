@@ -18,3 +18,6 @@ The project is a 2D combat & platformer game with pixel art style. The level des
 Special thanks to the artists for creating the assets and allowing people to use freely. They all are credited accordingly in the "Art Credits.txt" file. 
 
 ***** "MertcanBaykal - 2DCombatPlatformerDemo.zip" file contains the same files with "MertcanBaykal - 2DCombatPlatformerDemo" file. *****
+
+### Contact
+For questions, comments or feedback, you can contact at ***mertcanbaykal@hotmail.com***.

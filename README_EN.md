@@ -20,4 +20,4 @@ Special thanks to the artists for creating the assets and allowing people to use
 ***** "MertcanBaykal - 2DCombatPlatformerDemo.zip" file contains the same files with "MertcanBaykal - 2DCombatPlatformerDemo" file. *****
 
 ### Contact
-For questions, comments or feedback, you can contact at ***mertcanbaykal@hotmail.com***.
+For questions, comments and feedback, you can contact at ***mertcanbaykal@hotmail.com***.

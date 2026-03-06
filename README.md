@@ -19,3 +19,6 @@ Bu çalışma; piksel sanatı kullanılarak hazırlanmış, 2 boyutlu bir dövü
 Kaynakları tasarlayan ve insanların özgürce kullanımına sunan sanatçılara özellikle teşekkürler. Bütün sanatçılara "Art Credits.txt" dosyasında atıfta bulunulmuştur.
 
 ***** "MertcanBaykal - 2DCombatPlatformerDemo.zip" dosyası ile "MertcanBaykal - 2DCombatPlatformerDemo" dosyasının içerikleri aynıdır. *****
+
+# İletişim
+Soru, yorum ve geri bildirimler için ***mertcanbaykal@hotmail.com*** adresinden ulaşabilirsiniz.

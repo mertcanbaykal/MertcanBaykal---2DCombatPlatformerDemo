@@ -8,15 +8,15 @@
 
 Unity Oyun Motoru, oyun geliştirme ve C# programlama dili üzerindeki yetkinliğimi sınamayı ve yeni şeyler öğrenmeyi hedeflediğim küçük ölçekli bir çalışmadır.
 
-Bu çalışma; piksel sanatı kullanılarak hazırlanmış, 2 boyutlu bir dövüş & platform oyunudur. Oynanış ile hava durumu ve su yansıması gibi çevresel etkenlere odaklanan bir tür deneme sürümü olduğu için oyunun bölüm tasarımı sade tutulmuştur.
+Bu çalışma; piksel sanatı kullanılarak hazırlanmış, 2 boyutlu bir dövüş & platform oyunudur. Oynanış ile hava durumu ve su yansıması gibi çevresel etkenlere odaklanan bir tür deneme sürümü olduğu için oyunun bölüm tasarımı yalın tutulmuştur.
 
 
 ![preview](https://github.com/mertcanbaykal/MertcanBaykal---2DCombatPlatformerDemo/assets/70139395/ea1dc64d-74a7-4f3a-906c-cfd4c7792686)
 
 
-[Tanıtım Videosunun Tamamını İzlemek İçin Buraya Tıklayın](https://drive.google.com/file/d/1KGKTgAT8MeoEBvd8dkBN2dZBbMuCEY0F/view?usp=sharing)
+[Tanıtım Videosunun Bütününü İzlemek İçin Buraya Tıklayın](https://drive.google.com/file/d/1KGKTgAT8MeoEBvd8dkBN2dZBbMuCEY0F/view?usp=sharing)
 
-Kaynakları tasarlayan ve insanların özgürce kullanımına sunan sanatçılara özellikle teşekkürler. Bütün sanatçılara "Art Credits.txt" dosyasında atıfta bulunulmuştur.
+Kaynakları tasarlayan ve insanların özgürce kullanımına sunan sanatçılara özellikle teşekkürler. Bütün sanatçılara "Art Credits.txt" dosyasında gönderme yapılmıştır.
 
 ***** "MertcanBaykal - 2DCombatPlatformerDemo.zip" dosyası ile "MertcanBaykal - 2DCombatPlatformerDemo" dosyasının içerikleri aynıdır. *****
 

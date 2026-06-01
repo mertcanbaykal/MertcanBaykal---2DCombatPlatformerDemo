@@ -2,3 +2,4 @@
 * text=auto
 
 *.aspx linguist-language=C#
+static/* linguist-vendored

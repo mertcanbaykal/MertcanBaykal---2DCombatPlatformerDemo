@@ -6,7 +6,7 @@
     <a href="README_EN.md">English</a>
 </p>
 
-Unity Oyun Motoru, oyun geliştirme ve C# programlama dili üzerindeki yetkinliğimi sınamayı ve yeni şeyler öğrenmeyi hedeflediğim küçük ölçekli bir çalışmadır.
+Unity Oyun Motoru, oyun geliştirme ve C# programlama dili üzerindeki yetkinliğimi sınamayı ve yeni şeyler öğrenmeyi amaçladığım küçük ölçekli bir çalışmadır.
 
 Bu çalışma; piksel sanatı kullanılarak hazırlanmış, 2 boyutlu bir dövüş & platform oyunudur. Oynanış ile hava durumu ve su yansıması gibi çevresel etkenlere odaklanan bir tür deneme sürümü olduğu için oyunun bölüm tasarımı yalın tutulmuştur.
 
